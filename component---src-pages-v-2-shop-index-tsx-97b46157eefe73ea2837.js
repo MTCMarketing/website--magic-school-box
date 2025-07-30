@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[420],{7645:function(e,t,l){l.r(t),l.d(t,{default:function(){return s}});var n=l(6540),r=l(4492),u=l(5339),a=l(550),c=l(6296);function s(){return n.createElement(u.D2,null,n.createElement(r.A,null,n.createElement(c.A,null),n.createElement(a.N9,null)))}}}]);
+//# sourceMappingURL=component---src-pages-v-2-shop-index-tsx-97b46157eefe73ea2837.js.map
